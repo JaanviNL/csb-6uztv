@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jaanvinl.github.io/csb-6uztv/static/css/main.57ece11b.chunk.css",
+    "main.js": "https://jaanvinl.github.io/csb-6uztv/static/js/main.d472c0fd.chunk.js",
+    "main.js.map": "https://jaanvinl.github.io/csb-6uztv/static/js/main.d472c0fd.chunk.js.map",
+    "runtime-main.js": "https://jaanvinl.github.io/csb-6uztv/static/js/runtime-main.433637be.js",
+    "runtime-main.js.map": "https://jaanvinl.github.io/csb-6uztv/static/js/runtime-main.433637be.js.map",
+    "static/js/2.89b06961.chunk.js": "https://jaanvinl.github.io/csb-6uztv/static/js/2.89b06961.chunk.js",
+    "static/js/2.89b06961.chunk.js.map": "https://jaanvinl.github.io/csb-6uztv/static/js/2.89b06961.chunk.js.map",
+    "index.html": "https://jaanvinl.github.io/csb-6uztv/index.html",
+    "static/css/main.57ece11b.chunk.css.map": "https://jaanvinl.github.io/csb-6uztv/static/css/main.57ece11b.chunk.css.map",
+    "static/js/2.89b06961.chunk.js.LICENSE.txt": "https://jaanvinl.github.io/csb-6uztv/static/js/2.89b06961.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.433637be.js",
+    "static/js/2.89b06961.chunk.js",
+    "static/css/main.57ece11b.chunk.css",
+    "static/js/main.d472c0fd.chunk.js"
+  ]
+}
